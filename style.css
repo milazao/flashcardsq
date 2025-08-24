@@ -53,7 +53,7 @@ header h2, header h3, header h4 { margin: 0.2rem; font-weight: 400; }
     transform: rotateY(180deg);
 }
 
-/* Frente */
+/* Frente e verso */
 .cartao__conteudo__pergunta,
 .cartao__conteudo__resposta {
     position: absolute;
